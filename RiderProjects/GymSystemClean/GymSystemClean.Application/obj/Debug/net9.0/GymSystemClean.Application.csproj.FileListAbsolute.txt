@@ -1,0 +1,16 @@
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/bin/Debug/net9.0/GymSystemClean.Application.deps.json
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/bin/Debug/net9.0/GymSystemClean.Application.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/bin/Debug/net9.0/GymSystemClean.Application.pdb
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/bin/Debug/net9.0/GymSystemClean.Domain.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/bin/Debug/net9.0/GymSystemClean.Domain.pdb
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.csproj.AssemblyReference.cache
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.AssemblyInfoInputs.cache
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.AssemblyInfo.cs
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.csproj.CoreCompileInputs.cache
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.sourcelink.json
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSyste.1D9C3095.Up2Date
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/refint/GymSystemClean.Application.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/GymSystemClean.Application.pdb
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Application/obj/Debug/net9.0/ref/GymSystemClean.Application.dll

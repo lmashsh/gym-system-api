@@ -1,5 +1,16 @@
+using GymSystemClean;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using GymSystemClean.Infrastructure.Persistence;
+
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddOpenApi();
 
@@ -15,7 +26,3 @@ app.UseHttpsRedirection();
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

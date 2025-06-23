@@ -1,0 +1,12 @@
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/bin/Debug/net9.0/GymSystemClean.Domain.deps.json
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/bin/Debug/net9.0/GymSystemClean.Domain.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/bin/Debug/net9.0/GymSystemClean.Domain.pdb
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.AssemblyInfoInputs.cache
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.AssemblyInfo.cs
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.csproj.CoreCompileInputs.cache
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.sourcelink.json
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/refint/GymSystemClean.Domain.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.pdb
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/ref/GymSystemClean.Domain.dll

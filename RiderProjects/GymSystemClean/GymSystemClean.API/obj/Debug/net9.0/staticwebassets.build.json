@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dGfJgSag16JtqslbFBi0HYxwqefhMWx/O9KbNV+ZC5Y=",
+  "Source": "GymSystemClean.API",
+  "BasePath": "_content/GymSystemClean.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
