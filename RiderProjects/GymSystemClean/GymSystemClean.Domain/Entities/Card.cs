@@ -8,5 +8,5 @@ public class Card
     
     
     public int? ClientId { get; set; }
-    public Client Client { get; set; }
+    public Client? Client { get; set; }
 }

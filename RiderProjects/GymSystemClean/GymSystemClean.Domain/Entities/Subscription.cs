@@ -8,6 +8,4 @@ public class Subscription
     public string Conditions { get; set; } = null!;
     
     public ICollection<Client> Clients { get; set; } = new List<Client>();
-
-
 }
