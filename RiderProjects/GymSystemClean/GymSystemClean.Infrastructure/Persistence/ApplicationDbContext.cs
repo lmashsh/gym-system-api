@@ -22,15 +22,10 @@ public class ApplicationDbContext : DbContext
             .WithMany(s => s.Clients)
             .HasForeignKey(c => c.SubscriptionId);
         
-        
         modelBuilder.Entity<Client>()
             .HasOne(c => c.Card)
             .WithOne(c => c.Client)
             .HasForeignKey<Card>(x => x.ClientId);
-        
     }
-   
-    
-    
-    
-}
+
+} 

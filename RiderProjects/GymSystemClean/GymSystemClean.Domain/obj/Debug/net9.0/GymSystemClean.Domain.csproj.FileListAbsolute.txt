@@ -10,3 +10,4 @@
 /Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/refint/GymSystemClean.Domain.dll
 /Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.pdb
 /Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/ref/GymSystemClean.Domain.dll
+/Users/aleksejsokolov/RiderProjects/GymSystemClean/GymSystemClean.Domain/obj/Debug/net9.0/GymSystemClean.Domain.csproj.AssemblyReference.cache

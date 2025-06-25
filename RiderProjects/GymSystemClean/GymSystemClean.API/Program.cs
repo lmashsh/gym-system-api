@@ -3,9 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using GymSystemClean.Infrastructure.Persistence;
 
-
-
-
 var builder = WebApplication.CreateBuilder(args);
 
 
